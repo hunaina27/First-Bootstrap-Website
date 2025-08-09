@@ -53,14 +53,16 @@ background: rgba(245, 247, 250, 1);
 color: rgba(77, 77, 77, 1);
 font-family: "Inter", sans-serif;
 font-optical-sizing: auto;
-line-height: 52.9px;
 letter-spacing: 0%;
 
 }
+.line-height{
+ line-height: 52.9px;
+}
 
-@media (max-width: 767px) {
-   .hero text .line-height{
-    line-height: 10px;  
+@media (min-width: 0px) and (max-width: 767px) {
+  .line-height{
+    line-height: 1px;  
   }
 }
 .hero-text span{
