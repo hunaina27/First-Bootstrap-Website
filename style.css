@@ -54,7 +54,7 @@ color: rgba(77, 77, 77, 1);
 font-family: "Inter", sans-serif;
 font-optical-sizing: auto;
 font-size: 44.55px;
-line-height: 52.9px;
+line-height: 45.9px;
 letter-spacing: 0%;
 
 }
@@ -118,7 +118,11 @@ color: rgba(113, 113, 113, 1);
 
 /* community section */
 .community-heading{
-  line-height: 15px;
+ width: 377.26px;
+height: 62px;
+opacity: 1;
+text-align: center;
+
 }
 .card-body{
 width: 208.12px;
