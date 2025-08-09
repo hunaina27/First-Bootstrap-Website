@@ -60,7 +60,7 @@ letter-spacing: 0%;
 
 @media (max-width: 767px) {
    .hero text .line-height{
-    line-height: 30px;  
+    line-height: 10px;  
   }
 }
 .hero-text span{
