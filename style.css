@@ -56,14 +56,17 @@ font-optical-sizing: auto;
 letter-spacing: 0%;
 
 }
+
+
 .line-height {
   line-height: 52.9px;
 }
 
-@media (max-width: 767px) {
+@media (min-width:0px) and (max-width: 767px) {
   .line-height {
     line-height: 30px; 
   }
+
 }
 
 .hero-text span{
